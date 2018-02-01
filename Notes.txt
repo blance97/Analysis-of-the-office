@@ -1,0 +1,12 @@
+We will be doing semantic analysis on a person-by-scene basis. This means for each person, we will get the sentiment and salience for all dialog in each scene and then average them for each person. We can also do the average for each season for the main characters to see how their emotions changed throughout the show.
+People to Perform Analysis on:
+    Michael
+    Jim
+    Dwight
+    Pam
+    Ryan
+    Andy
+
+male-to-female dialog percentage graph
+character percentage pie chart per season
+that's what she said count
