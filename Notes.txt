@@ -8,5 +8,5 @@ People to Perform Analysis on:
     Andy
 
 male-to-female dialog percentage graph
-character percentage pie chart per season
+DONE character percentage pie chart per season
 that's what she said count
